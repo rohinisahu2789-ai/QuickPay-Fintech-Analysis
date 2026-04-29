@@ -1,0 +1,5 @@
+payment_method,transaction_count,total_amount_usd
+Card,13,"$52,852.00"
+NetBanking,3,"$15,226.00"
+UPI,9,"$34,394.00"
+Wallet,5,"$13,403.00"

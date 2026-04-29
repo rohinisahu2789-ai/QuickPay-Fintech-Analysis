@@ -1,0 +1,5 @@
+merchant_name,Amount Mismatch,Missing in Gateway,Status Mismatch
+Alpha Mart,1,0,0
+Beta Stores,1,0,0
+City Pharma,0,1,0
+Delta Travels,0,1,1

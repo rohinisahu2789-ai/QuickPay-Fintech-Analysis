@@ -1,0 +1,7 @@
+transaction_id,ledger_amount,gateway_amount,difference,issue_type
+R004,2500.0,0.0,2500.0,Missing in Gateway
+R010,2100.0,0.0,2100.0,Missing in Gateway
+R011,0.0,1800.0,-1800.0,Missing in Ledger
+R002,850.0,900.0,-50.0,Amount Mismatch
+R008,640.0,600.0,40.0,Amount Mismatch
+R005,,,,Status Mismatch

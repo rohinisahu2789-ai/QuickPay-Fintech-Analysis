@@ -1,0 +1,8 @@
+merchant_name,transaction_count,total_amount_usd,average_risk_score,high_risk_transaction_count
+alpha  mart,3,"$7,56,49,600.78",63.33333333,1
+alpha mart,8,"$21,09,59,999.77",57.75,1
+beta  stores,10,"$24,11,23,849.53",68.6,4
+beta stores,1,"$5,04,13,223.14",77,1
+city pharma,2,"$7,407.41",40,0
+delta travels,4,"$14,600.00",48.75,1
+eco home,2,"$8,623.85",54.5,1

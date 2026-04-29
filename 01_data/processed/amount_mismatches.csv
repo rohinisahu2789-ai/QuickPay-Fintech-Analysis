@@ -1,0 +1,3 @@
+transaction_id,ledger_amount,issue_type,gateway_amount,amount_difference,severity
+R002,850.0,Amount Mismatch,900.0,-50.0,Medium
+R008,640.0,Amount Mismatch,600.0,40.0,Medium
