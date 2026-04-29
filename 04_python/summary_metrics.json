@@ -1,0 +1,25 @@
+{
+    "validation_metrics": {
+        "ledger_count": 10,
+        "gateway_count": 9,
+        "volume_difference": -1,
+        "ledger_total": 23340.0,
+        "gateway_total": 20550.0,
+        "ledger_nulls": 0,
+        "gateway_nulls": 0
+    },
+    "transaction_difference_counts": {
+        "only_in_ledger_count": 2,
+        "only_in_gateway_count": 1,
+        "in_both_count": 8
+    },
+    "total_discrepancy_issues": 6,
+    "discrepancy_issue_breakdown": {
+        "Missing in Gateway": 2,
+        "Amount Mismatch": 2,
+        "Missing in Ledger": 1,
+        "Status Mismatch": 1
+    },
+    "reconciliation_health_score_percentage": 40.0,
+    "total_financial_impact_usd": 6490.0
+}
